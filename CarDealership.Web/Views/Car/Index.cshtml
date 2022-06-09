@@ -1,0 +1,31 @@
+﻿@{ 
+    ViewData["Title"] = "Home Page";
+}
+@using CarDealership.DataAcess.Models;
+@model List<Car>
+<h2>Car info</h2>
+<form asp-controller="Car" asp-action="Index" method="get">
+    <p>
+        <input type="text" name="query" value="@Context.Request.Query["query"] />
+        <input type="submit" value="Search" />
+    </p>
+</form>
+
+<table>
+    <tr>
+        <th>No.</th>
+        <th>Name</th>
+        <th>Price</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td id="=carid">@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price.ToString("N0") $</td>
+
+        </tr>
+    }
+</table>
+
+

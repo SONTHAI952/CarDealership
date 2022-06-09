@@ -1,0 +1,4 @@
+E:\work\project1\CarDealership.DataAcess\obj\Debug\netcoreapp3.1\CarDealership.DataAcess.csprojAssemblyReference.cache
+E:\work\project1\CarDealership.DataAcess\obj\Debug\netcoreapp3.1\CarDealership.DataAcess.AssemblyInfoInputs.cache
+E:\work\project1\CarDealership.DataAcess\obj\Debug\netcoreapp3.1\CarDealership.DataAcess.AssemblyInfo.cs
+E:\work\project1\CarDealership.DataAcess\obj\Debug\netcoreapp3.1\CarDealership.DataAcess.csproj.CoreCompileInputs.cache
