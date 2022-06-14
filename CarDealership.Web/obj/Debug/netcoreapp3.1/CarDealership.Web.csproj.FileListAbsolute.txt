@@ -1,7 +1,0 @@
-E:\work\project1\CarDealership.Web\obj\Debug\netcoreapp3.1\CarDealership.Web.csprojAssemblyReference.cache
-E:\work\project1\CarDealership.Web\obj\Debug\netcoreapp3.1\CarDealership.Web.AssemblyInfoInputs.cache
-E:\work\project1\CarDealership.Web\obj\Debug\netcoreapp3.1\CarDealership.Web.AssemblyInfo.cs
-E:\work\project1\CarDealership.Web\obj\Debug\netcoreapp3.1\CarDealership.Web.csproj.CoreCompileInputs.cache
-E:\work\project1\CarDealership.Web\obj\Debug\netcoreapp3.1\CarDealership.Web.MvcApplicationPartsAssemblyInfo.cache
-E:\work\project1\CarDealership.Web\obj\Debug\netcoreapp3.1\CarDealership.Web.RazorAssemblyInfo.cache
-E:\work\project1\CarDealership.Web\obj\Debug\netcoreapp3.1\CarDealership.Web.RazorAssemblyInfo.cs
