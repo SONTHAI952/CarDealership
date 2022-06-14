@@ -1,0 +1,8 @@
+E:\work\project1\CarDealerships.Web\obj\Debug\net5.0\CarDealerships.Web.csprojAssemblyReference.cache
+E:\work\project1\CarDealerships.Web\obj\Debug\net5.0\CarDealerships.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\project1\CarDealerships.Web\obj\Debug\net5.0\CarDealerships.Web.AssemblyInfoInputs.cache
+E:\work\project1\CarDealerships.Web\obj\Debug\net5.0\CarDealerships.Web.AssemblyInfo.cs
+E:\work\project1\CarDealerships.Web\obj\Debug\net5.0\CarDealerships.Web.csproj.CoreCompileInputs.cache
+E:\work\project1\CarDealerships.Web\obj\Debug\net5.0\CarDealerships.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\work\project1\CarDealerships.Web\obj\Debug\net5.0\CarDealerships.Web.RazorAssemblyInfo.cache
+E:\work\project1\CarDealerships.Web\obj\Debug\net5.0\CarDealerships.Web.RazorAssemblyInfo.cs
